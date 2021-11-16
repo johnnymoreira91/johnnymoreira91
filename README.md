@@ -39,11 +39,10 @@ How to reach me:
 ##  Cloud:
 <p display="block">
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
 #### Feel free to look on my repositories!
 
-<div style="margin: 30px"> 
-<img alt="Top Languages" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymoreira91&layout=compact">
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnymoreira91&show_icons=true&locale=en&layout=compact" alt="johnnymoreira91"/></p>
+<br><br><br><br><br><br><br>
+
